@@ -10,6 +10,7 @@ Features
 * Attractive homepage design
 * Navigation bar
 * Food images
+* Food menu section 
 * Simple and user-friendly layout
 
 Technologies Used
